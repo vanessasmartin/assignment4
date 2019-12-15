@@ -1,13 +1,12 @@
-
 <!DOCTYPE html>
 <html>
 <head>
 <title>Vanessa Martin's Portfolio</title>
 </head>
-<body>
+<body style="background-color:powderblue;">
 
 <h1><center>Vanessa Martin's Portfolio<center></h1>
-<p>For assignment 3 I used a hash map data structure to capture the words in the song "Star Spangled Banner."</p>
+<p>For assignment 3 I used a hash map data structure to capture the words in the song "Star Spangled Banner. I chose this song becaue it is ubiquitous in the United States. It was written in the 1800s and is symbolic of America. "</p>
 <a href="https://github.com/vanessasmartin/assignment3">Assignment 3</a>
 
 </body>
